@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.blade.php": "html",
+        "*.shadron": "glsl",
+        "core.h": "c",
+        "executionengine.h": "c",
+        "xstring": "cpp"
+    },
+    "C_Cpp.autocomplete": "Disabled",
+    "clang.cxxflags": [
+        "-I","D:/bin/LLVM/include"
+    ],
+    "clang.completion.enable": true,
+    "clang.diagnostic.enable": true
+}

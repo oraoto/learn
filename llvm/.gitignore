@@ -1,0 +1,9 @@
+*.bc
+*.ll
+*.s
+x64
+Debug
+.vs
+*.pdb
+*.exe
+*.obj
